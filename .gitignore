@@ -1,0 +1,4 @@
+venv 
+.env 
+social_app/migrations/__pycache__
+sqlite3.db
